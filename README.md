@@ -1,4 +1,4 @@
 Nginx
 ============================================
 
-nginx with docker-compose
+nginx install using docker-compose
